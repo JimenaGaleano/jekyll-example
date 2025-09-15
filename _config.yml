@@ -2,10 +2,10 @@ title : My first Jekyll site
 author :
   name : Jimena Galeano
   email : jdgale@stlawu.edu
-  github : jimenagaleano
+  github : JimenaGaleano
 
-url: "https://JimenaGaleano.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /repositoryname
+url: "https://jimenagaleano.github.io" # the base hostname & protocol for your site
+baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: plum
