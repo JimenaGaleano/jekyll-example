@@ -8,11 +8,6 @@ header:
         - label: "Learn More" 
           url: /about 
     overlay_filter: rgba(79, 99, 82, 0.5)
-    
-        - label: "Home / Landingpage" 
-            url: /home
-    overlay_filter: rgba(79, 99, 82, 0.5)
-    
 ---
 
 # This is my home page 
