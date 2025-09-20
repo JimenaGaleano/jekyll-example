@@ -31,4 +31,7 @@ defaults:
       type: posts
     values: 
       show_date: true 
-      
+
+breadcrumbs: true 
+breadcrumb_home_label : "Home"
+breadcrumb_separator  : "/"
