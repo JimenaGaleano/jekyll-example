@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Merequetengue! 
 excerpt: The best place you can visit
 header: 
-    overlay_image: /assets/images/volcan.jpg
+    overlay_image: /assets/images/lago.jpg
     actions: 
         - label: "History" 
           url: /history
@@ -20,3 +20,5 @@ Here, adventure flows as freely as the conversations you’ll have with fellow b
 
 🔹 Hike. Learn. Dance. Discover.
 Your journey begins here.
+
+![A view of Merequetengue lake](assets/images/volcan.jpg)
