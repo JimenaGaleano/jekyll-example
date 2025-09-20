@@ -1,6 +1,7 @@
 ---
 title: "Activities"
 layout: single
+url: /activities/
 header: 
     overlay_image: /assets/images/hilos.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome to Merequetengue! 
-excerpt: The best place you can visit
+excerpt: The best place you can visit!
 header: 
     overlay_image: /assets/images/lago.jpg
     actions: 
