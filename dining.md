@@ -1,5 +1,5 @@
 ---
-title: "dining"
+title: "Dining"
 layout: single
 permalink: /dining/
 ---
