@@ -1,9 +1,9 @@
 main:
   - title: "Home"
-    url: /home
+    url: /
   - title: "History"
-    url: /history
+    url: /history/
   - title: "Activities"
-    url: /Activities
+    url: /Activities/
   - title: "Dining"
-    url: /dining
+    url: /dining/
