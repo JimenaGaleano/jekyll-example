@@ -7,3 +7,7 @@ main:
     url: /dining
   - title: "About"
     url: /about 
+
+breadcrumbs: true 
+breadcrumb_home_label : "Home"
+breadcrumb_separator  : "/"
