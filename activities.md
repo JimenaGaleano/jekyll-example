@@ -1,7 +1,7 @@
 ---
 title: "Activities"
 layout: single
-permalink: /activities/
+url: /activities/
 ---
 
 # Activities in Merequetengue
