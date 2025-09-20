@@ -2,7 +2,8 @@
 layout: single 
 title: Yeva Doskalchuk on the Spiritual Heart of Merequetengue
 author_profile: true 
-
+header: 
+    overlay_image: /assets/images/yoga.jpg
 ---
 
 We spoke with **Yeva Doskalchuk**, a traveler deeply interested in spirituality and culture, about her time in **Merequetengue**. Here’s her perspective:
