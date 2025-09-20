@@ -2,6 +2,8 @@
 title: "Dining"
 layout: single
 url: /dining/
+header: 
+    overlay_image: /assets/images/picosas.jpg
 ---
 
 # Dining in Merequetengue

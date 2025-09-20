@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Merequetengue! 
 excerpt: The best place you can visit
 header: 
-    overlay_image: /assets/images/trees.jpg
+    overlay_image: /assets/images/volcan.jpg
     actions: 
         - label: "History" 
           url: /history

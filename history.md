@@ -1,6 +1,8 @@
 ---
 title: "The History of Merequetengue"
 layout: single
+header: 
+    overlay_image: /assets/images/montanas.jpg
 ---
 
 Long before Merequetengue became a lively stop for travelers, it was a place of gathering, healing, and storytelling. The lake that cradles the town was once considered sacred by the first communities who settled here. They believed its waters held the reflection of the sky, a mirror between the earthly and the spiritual. To this day, locals tell stories of the lake changing colors with the seasons, carrying the energy of those who live and pass through.
