@@ -5,8 +5,12 @@ excerpt: The best place you can visit
 header: 
     overlay_image: /assets/images/lago.jpg
     actions: 
-        - label: "About" 
-          url: /about
+        - label: "History" 
+          url: /history
+        - label: "Dining" 
+          url: /dining
+        - label: "Activities" 
+          url: /activities
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 

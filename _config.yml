@@ -36,6 +36,7 @@ breadcrumbs: true
 breadcrumb_home_label: "Home"
 breadcrumb_separator: "/"
 
+show_footer: true
 footer:
   links:
     - title: "Quick Links"
@@ -47,6 +48,5 @@ footer:
           url: /activities/
         - title: "Dining"
           url: /dining/
-      values: 
-        show_footer: true
+
 

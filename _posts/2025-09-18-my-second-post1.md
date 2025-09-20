@@ -1,7 +1,6 @@
 ---
 layout: single 
 title: Yeva Doskalchuk on the Spiritual Heart of Merequetengue
-except: My Second Post 
 author_profile: true 
 
 ---

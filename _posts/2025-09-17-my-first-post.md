@@ -1,7 +1,6 @@
 ---
 layout: single 
 title: Ana Ramirez Shares Her Adventure in Merequetengue
-excerpt: My First Post 
 author_profile: true 
 
 ---
