@@ -32,3 +32,21 @@ defaults:
     values: 
       show_date: true 
 
+breadcrumbs: true
+breadcrumb_home_label: "Home"
+breadcrumb_separator: "/"
+
+footer:
+  links:
+    - title: "Quick Links"
+      url: /
+      items:
+        - title: "History"
+          url: /history/
+        - title: "Activities"
+          url: /activities/
+        - title: "Dining"
+          url: /dining/
+      values: 
+        show_footer: true
+
