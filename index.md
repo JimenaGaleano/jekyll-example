@@ -2,10 +2,11 @@
 layout: home
 title: Welcome to Merequetengue! 
 excerpt: This is a test excerpt 
+url: /
 header: 
     overlay_image: /assets/images/trees.jpg
     actions: 
-        - label: "Learn More" 
+        - label: "Learn about" 
           url: /history/
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
