@@ -9,6 +9,7 @@ baseurl: "/visit-merequetengue" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: aqua
+bundle
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
