@@ -30,4 +30,6 @@ Merequetengue is calling all curious travelers: hike, explore, connect, and let 
 
 ✨ Pack your backpack and make your own story in Merequetengue!
 
+
+
 ![Ana in a hike](assets/images/hike.jpg)
