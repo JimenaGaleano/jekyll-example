@@ -6,7 +6,7 @@ header:
     image: /assets/images/trees.jpg
     actions: 
         - label: "Learn More" 
-          url: /about 
+          url: /Home
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 
