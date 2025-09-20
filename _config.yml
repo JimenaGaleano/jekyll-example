@@ -5,7 +5,7 @@ author :
   github : JimenaGaleano
 
 url: "https://jimenagaleano.github.io" # the base hostname & protocol for your site
-baseurl: "/visit-panajachele" # the subpath of your site, e.g. /repositoryname
+baseurl: "/visit-panajachel" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 minimal_mistakes_skin: aqua
