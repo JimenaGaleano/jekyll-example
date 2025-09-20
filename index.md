@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: single
 title: Welcome to Merequetengue! 
 excerpt: This is a test excerpt 
-url: /
 header: 
     overlay_image: /assets/images/trees.jpg
     actions: 
