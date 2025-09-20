@@ -1,6 +1,7 @@
 ---
 title: "Dining"
 layout: single
+url: /dining/
 ---
 
 # Dining in Merequetengue
