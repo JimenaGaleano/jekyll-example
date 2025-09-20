@@ -5,8 +5,8 @@ excerpt: The best place you can visit
 header: 
     overlay_image: /assets/images/trees.jpg
     actions: 
-        - label: "Learn about" 
-          url: /main
+        - label: "History" 
+          url: /history
     overlay_filter: rgba(79, 99, 82, 0.5)
 ---
 

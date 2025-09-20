@@ -1,8 +1,6 @@
 ---
 title: "History"
 layout: single
-url: /history/
-
 ---
 
 # The History of Merequetengue
