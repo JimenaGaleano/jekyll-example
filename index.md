@@ -11,7 +11,7 @@ header:
           url: /dining
         - label: "Activities" 
           url: /activities
-    overlay_filter: rgba(79, 99, 82, 0.5)
+    overlay_filter: rgba(79, 99, 82, 0)
 ---
 
 # Welcome to Merequetengue 🌊⛰️✨
