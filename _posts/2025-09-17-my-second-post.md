@@ -30,4 +30,4 @@ Merequetengue isn’t just a destination; it’s a journey into culture, traditi
 
 🌿 Come curious, leave inspired.
 
-![Yeva doing yoga](assets/images/yoga.jpg)
+![Yeva doing yoga](/assets/images/yoga.jpg)

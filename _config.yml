@@ -36,10 +36,13 @@ breadcrumbs: true
 breadcrumb_home_label: "Home"
 breadcrumb_separator: "/"
 
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: main
-    values:
-        navigation: "main"
+navigation: 
+  main: 
+    - title: "Home"
+      url: /
+    - title: "History"
+      url: /history/
+    - title: "Activities"
+      url: /activities/
+    - title: "Dining"
+      url: /dining/
