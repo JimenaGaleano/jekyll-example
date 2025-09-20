@@ -1,5 +1,5 @@
 ---
-title: "activities"
+title: "Activities"
 layout: single
 permalink: /activities/
 ---

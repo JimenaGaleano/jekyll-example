@@ -1,6 +1,6 @@
 ---
-layout: home 
-title: Welcome Home! 
+layout: single
+title: Welcome to Merequetengue! 
 excerpt: This is a test excerpt 
 header: 
     image: /assets/images/trees.jpg
