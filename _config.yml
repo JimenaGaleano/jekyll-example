@@ -2,13 +2,14 @@ title : Merequetengue
 author :
   name : Jimena Galeano
   email : jdgale@stlawu.edu
-  github : JimenaGaleano
+  github : jimenagaleano
 
 url: "https://jimenagaleano.github.io" # the base hostname & protocol for your site
 baseurl: "/visit-merequetengue" # the subpath of your site, e.g. /repositoryname
 
+theme: "minimal-mistakes-jekyll"
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: plum
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks

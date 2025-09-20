@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: Welcome to Merequetengue! 
 excerpt: This is a test excerpt 
 header: 
