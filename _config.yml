@@ -1,4 +1,4 @@
-Title: Merequetengue 
+title: Merequetengue 
 author :
   name : Jimena Galeano
   email : jdgale@stlawu.edu
@@ -35,19 +35,4 @@ defaults:
 breadcrumbs: true
 breadcrumb_home_label: "Home"
 breadcrumb_separator: "/"
-
-show_footer: true
-
-footer:
-  links:
-    - title: "Quick Links"
-      url: /
-      items:
-        - title: "History"
-          url: /history/
-        - title: "Activities"
-          url: /activities/
-        - title: "Dining"
-          url: /dining/
-
 
