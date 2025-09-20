@@ -31,5 +31,3 @@ We spoke with **Yeva Doskalchuk**, a traveler deeply interested in spirituality 
 Merequetengue isn’t just a destination; it’s a journey into culture, tradition, and self-discovery. Whether you’re here for adventure or reflection, the town invites you to slow down, observe, and connect.  
 
 🌿 Come curious, leave inspired.
-
-![Yeva doing yoga](/assets/images/yoga.jpg)

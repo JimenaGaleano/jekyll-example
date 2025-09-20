@@ -45,5 +45,5 @@ defaults:
 
 breadcrumbs: true
 breadcrumb_home_label: "Home"
-breadcrumb_separator: ">"
+breadcrumb_separator: "/"
 
