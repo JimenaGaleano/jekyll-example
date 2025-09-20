@@ -2,6 +2,7 @@
 layout: single 
 title: Ana Ramirez Shares Her Adventure in Merequetengue
 author_profile: true 
+url: /AnaRamirezShares
 header: 
     overlay_image: /assets/images/hike.jpg
 

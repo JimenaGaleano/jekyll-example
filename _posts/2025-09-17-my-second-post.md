@@ -2,6 +2,7 @@
 layout: single 
 title: Yeva Doskalchuk on the Spiritual Heart of Merequetengue
 author_profile: true 
+url: /YevaDoskalchukShares
 header: 
     overlay_image: /assets/images/yoga.jpg
 ---
