@@ -29,3 +29,5 @@ We had the chance to sit down with **Ana Ramirez**, an avid backpacker from Hond
 Merequetengue is calling all curious travelers: hike, explore, connect, and let the town’s vibrant energy make your visit one to remember.  
 
 ✨ Pack your backpack and make your own story in Merequetengue!
+
+![Ana in a hike](assets/images/hike.jpg)
