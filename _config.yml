@@ -36,3 +36,11 @@ breadcrumbs: true
 breadcrumb_home_label: "Home"
 breadcrumb_separator: "/"
 
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"

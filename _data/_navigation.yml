@@ -1,9 +1,9 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "History"
-    url: /history/
-  - title: "Activities"
-    url: /activities/
-  - title: "Dining"
-    url: /dining/
+docs:
+  - title: others
+    children: 
+    - title: "History"
+      url: /docs/history/
+    - title: "Activities"
+      url: /docs/activities/
+    - title: "Dining"
+      url: /docs/dining/
