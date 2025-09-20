@@ -1,11 +1,11 @@
-title : Panajachel
+title : Merequetengue
 author :
   name : Jimena Galeano
   email : jdgale@stlawu.edu
   github : JimenaGaleano
 
 url: "https://jimenagaleano.github.io" # the base hostname & protocol for your site
-baseurl: "/visit-panajachel" # the subpath of your site, e.g. /repositoryname
+baseurl: "/visit-merequetengue" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: aqua
