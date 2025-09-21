@@ -25,17 +25,6 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-include-cache # needed for minimal-mistakes
 
-navigation: 
-  main: 
-    - title: "Home"
-      url: /
-    - title: "History"
-      url: /history/
-    - title: "Activities"
-      url: /activities/
-    - title: "Dining"
-      url: /dining/
-
 defaults: 
   - scope: 
       path: ""
