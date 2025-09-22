@@ -2,6 +2,6 @@ main:
   - title: "History"
     url: /history/
   - title: "Activities"
-    url: /dining
+    url: /dining/
   - title: "Dining"
-    url: /activities
+    url: /activities/
