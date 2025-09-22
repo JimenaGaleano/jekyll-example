@@ -1,9 +1,7 @@
-docs:
-  -title: about 
-  children: 
-    - title: "History"
-      url: /docs/history/
-    - title: "Activities"
-      url: /activities/
-    - title: "Dining"
-      url: /dining/
+main:
+  - title: "History"
+    url: /docs/history/
+  - title: "Activities"
+    url: /activities/
+  - title: "Dining"
+    url: /dining/
