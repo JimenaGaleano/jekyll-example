@@ -1,8 +1,8 @@
-main:
+docs:
   -title: about 
   children: 
     - title: "History"
-      url: /history/
+      url: /docs/history/
     - title: "Activities"
       url: /activities/
     - title: "Dining"

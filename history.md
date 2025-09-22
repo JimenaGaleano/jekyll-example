@@ -1,7 +1,7 @@
 ---
 title: "The History of Merequetengue"
 layout: single
-url: /history/
+url: /docs/history/
 header: 
     overlay_image: /assets/images/montanas.jpg
 ---
