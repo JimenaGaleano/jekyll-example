@@ -1,7 +1,7 @@
 main:
   - title: "History"
-    url: /docs/history/
+    url: /history/
   - title: "Activities"
-    url: /activities/
+    url: /dining
   - title: "Dining"
-    url: /dining/
+    url: /activities
