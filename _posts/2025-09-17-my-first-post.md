@@ -1,6 +1,6 @@
 ---
 layout: single 
-title: Ana Ramirez Shares Her Adventure in Merequetengue
+title: Ana Ramirez Shares Her Adventure in Merequetengue!
 author_profile: true 
 url: /AnaRamirezShares
 header: 
